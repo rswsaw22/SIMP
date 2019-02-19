@@ -12,4 +12,4 @@ add_executable(SIMP
         .idea/workspace.xml
         .gitignore
         LICENSE
-        README.md)
+        README.md source/main.cpp source/input_parser.cpp source/input_parser.h source/simp_types.h)
